@@ -131,7 +131,19 @@
       <option name="presentableId" value="Default" />
       <updated>1620779700206</updated>
     </task>
+    <task id="LOCAL-00001" summary="space">
+      <created>1620847541962</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620847541962</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="space" />
+    <option name="LAST_COMMIT_MESSAGE" value="space" />
   </component>
   <component name="WindowStateProjectService">
     <state x="409" y="99" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1620840941034">
@@ -146,13 +158,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="503" y="124" key="AndroidCreateXmlResourceDialog/0.0.1366.728@0.0.1366.728" timestamp="1620842621882" />
+    <state x="255" y="0" key="CommitChangelistDialog2" timestamp="1620847541181">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="255" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1620847541181" />
     <state x="74" y="0" key="SettingsEditor" timestamp="1620842821963">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="74" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1620842821963" />
-    <state x="175" y="32" key="Vcs.Push.Dialog.v2" timestamp="1620847308115">
+    <state x="175" y="32" key="Vcs.Push.Dialog.v2" timestamp="1620847613824">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="175" y="32" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1620847308115" />
+    <state x="175" y="32" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1620847613824" />
   </component>
 </project>
